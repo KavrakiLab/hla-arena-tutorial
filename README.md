@@ -4,24 +4,25 @@ Welcome to the [ISMCO'20](http://ismco.net/) tutorial on [Current methods and op
 
 ## Tentative schedule
 
-| Activity | Duration (m) |
-|----------|:-------------:|
-| Opening  | 5 |
-| Cellular immunity for cancer immunotherapy | 15 |
-| Exploring IEDB resources (live demo)	| 40 |
-| Break |	15 |
-| Downloading structures from PDB	| 5 |
-| Visualizing pHLA structures w Chimera (live)	| 30 |
-| Break |	15 |
-| Intro pHLA modeling |	10 |
-| DINC  (live demo) |	8 |
-| DockTope (webserver live demo) |	8 |
-| Intro to Jupyter notebooks (live demo) |	8 |
-| Time for questions	| 15 |
-| Intro to HLA-Arena	| 10 |
-| HLA-Arena workflow 0 (Ape-Gen)	| 10 |
-| HLA-Arena workflow 1 (DINC)	| 15 |
-| HLA-Arena workflow 3 (mhcflurry + APE-Gen) |	30 |
+| Activity | Duration (m) | Time (PST) |
+|----------|:-------------:|:-------------:|
+| Opening  | 5 | 3:00 |
+| Cellular immunity for cancer immunotherapy | 15 | - |
+| Exploring IEDB resources (live demo)	| 40 | - |
+| **Break**	| **15** | - |
+| Downloading structures from PDB	| 5 | 4:15 |
+| Visualizing pHLA structures w Chimera (live)	| 30 | - |
+| **Break**	| **15** | - |
+| Intro pHLA modeling |	10 | 5:05 |
+| DINC  (live demo) |	8 | - |
+| DockTope (webserver live demo) |	8 | - |
+| Intro to Jupyter notebooks (live demo) |	8 | - |
+| **Break**	| **15** | - |
+| Intro to HLA-Arena	| 10 | 5:40 |
+| HLA-Arena workflow 0 (Ape-Gen)	| 10 | - |
+| HLA-Arena workflow 1 (DINC)	| 15 | - |
+| HLA-Arena workflow 3 (mhcflurry + APE-Gen) |	30 | - |
+| Conclusion | - | 19:00 |
 
 
 ## Software requirements
