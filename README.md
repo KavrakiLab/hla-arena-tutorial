@@ -14,7 +14,7 @@ Welcome to the [ISMCO'20](http://ismco.net/) tutorial on [Current methods and op
 | Visualizing pHLA structures w Chimera (live)	| 30 |
 | Break |	15 |
 | Intro pHLA modeling |	10 |
-| DINC  (live demo)	8 |
+| DINC  (live demo) |	8 |
 | DockTope (webserver live demo) |	8 |
 | Intro to Jupyter notebooks (live demo) |	8 |
 | Time for questions	| 15 |
