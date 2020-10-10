@@ -4,8 +4,9 @@ Welcome to the [ISMCO'20](http://ismco.net/) tutorial on [Current methods and op
 
 ## Tentative schedule
 
-| Activity | Duration (m)|
-| Opening | 5 |
+| Activity | Duration (m) |
+|----------|:-------------:|
+| Opening  | 5 |
 | Cellular immunity for cancer immunotherapy | 15 |
 | Exploring IEDB resources (live demo)	| 40 |
 | Break |	15 |
