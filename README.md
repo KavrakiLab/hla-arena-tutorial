@@ -1,6 +1,6 @@
-# Current methods and open challenges for structural modeling in cancer immunotherapy
+# Current methods and open challenges for structural modeling in cancer immunotherapy - ISMCO'20
 
-Welcome to the ISMCO'20 tutorial on Current methods and open challenges for structural modeling in cancer immunotherapy!!!
+Welcome to the [ISMCO'20](http://ismco.net/) tutorial on [Current methods and open challenges for structural modeling in cancer immunotherapy](http://ismco.net/index.php/tutorials-2/)!!!
 
 ## Software requirements
 
