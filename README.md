@@ -2,7 +2,7 @@
 
 Welcome to the second edition of the [ISMCO'20](http://ismco.net/) tutorial on [Current methods and open challenges for structural modeling in cancer immunotherapy](http://ismco.net/index.php/tutorials-2/)!!!
 
-## Tentative schedule
+## Tentative outline
 
 | Activity | Duration (m) | Time (PST) |
 |----------|:-------------:|:-------------:|
@@ -67,9 +67,9 @@ Next, in a command prompt, pull the HLA-Arena image from Docker Hub by typing:
 This step can take hours and it will require about 20 Gb of disk space.
 
 
-2. Checking your installation:
+### 2. Checking your installation:
 
-2.1. Test your Docker installation:
+#### 2.1. Test your Docker installation:
 In the command line (or prompt) run the following command:
 
           docker run hello-world
@@ -98,7 +98,7 @@ You should see the following output:
          https://docs.docker.com/get-started/
 
 
-2.2. Check if you have downloaded the HLA-arena image:
+#### 2.2. Check if you have downloaded the HLA-arena image:
 In the command line (or prompt) run the following command:
 
         docker images
@@ -108,4 +108,21 @@ You should see an output like this:
         REPOSITORY             TAG                      IMAGE ID            CREATED             SIZE
         kavrakilab/hla-arena   latest                   e6cefe68c72a        2 months ago        20.6GB
 
+#### 2.3. Modeller license key
+Several of HLA-Arena workflows rely on Modeller to perform the homology modeling of a given HLA receptor. This modeling task is integrated into a specific HLA-Arena function (more details [here](https://kavrakilab.github.io/hla-arena/DOCUMENTATION.html)). However, using Modeller requires you to register and obtain your own license key, if you do not already have one. First, follow instructions on the [Modeller registration page](https://salilab.org/modeller/registration.html).
+
+Once you have the key, you can permanently update the HLA-Arena container with your key. For that, you should execute the commands below, replacing MODELLER_KEY with the correct key.
+
+        docker run -it kavrakilab/hla-arena
+        sed -i "s/XXXX/MODELLER_KEY/g" /conda/envs/apegen/lib/modeller-9.20/modlib/modeller/config.py
+        exit
+        docker commit $(docker ps -a | sed -n 2p | awk '{ print $1 }') kavrakilab/hla-arena
+        docker container rm $(docker ps -a | sed -n 2p | awk '{ print $1 }')
+
 For more information on HLA-Arena, you can check the [HLA-Arena github repository](https://github.com/KavrakiLab/hla-arena).
+
+We also have a two-part tutorial available on YouTube:
+
+[HLA-Arena video tutorial (Part 2)](https://youtu.be/gIFHmejEulo)
+
+[HLA-Arena video tutorial (Part 2)](https://youtu.be/fPhnmYez4QA)
