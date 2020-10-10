@@ -123,6 +123,6 @@ For more information on HLA-Arena, you can check the [HLA-Arena github repositor
 
 We also have a two-part tutorial available on YouTube:
 
-[HLA-Arena video tutorial (Part 2)](https://youtu.be/gIFHmejEulo)
+[HLA-Arena video tutorial (Part 1)](https://youtu.be/gIFHmejEulo)
 
 [HLA-Arena video tutorial (Part 2)](https://youtu.be/fPhnmYez4QA)
