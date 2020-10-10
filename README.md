@@ -2,6 +2,27 @@
 
 Welcome to the [ISMCO'20](http://ismco.net/) tutorial on [Current methods and open challenges for structural modeling in cancer immunotherapy](http://ismco.net/index.php/tutorials-2/)!!!
 
+## Tentative schedule
+
+| Activity | Duration (m)|
+| Opening | 5 |
+| Cellular immunity for cancer immunotherapy | 15 |
+| Exploring IEDB resources (live demo)	| 40 |
+| Break |	15 |
+| Downloading structures from PDB	| 5 |
+| Visualizing pHLA structures w Chimera (live)	| 30 |
+| Break |	15 |
+| Intro pHLA modeling |	10 |
+| DINC  (live demo)	8 |
+| DockTope (webserver live demo) |	8 |
+| Intro to Jupyter notebooks (live demo) |	8 |
+| Time for questions	| 15 |
+| Intro to HLA-Arena	| 10 |
+| HLA-Arena workflow 0 (Ape-Gen)	| 10 |
+| HLA-Arena workflow 1 (DINC)	| 15 |
+| HLA-Arena workflow 3 (mhcflurry + APE-Gen) |	30 |
+
+
 ## Software requirements
 
  You will need to install the following programs **PRIOR TO THE BEGINNING OF THE TUTORIAL**! This is important since the download of some of the packages could take hours depending on your internet connection. We will not be able to help you with the installation during the tutorial.
