@@ -1,28 +1,28 @@
 # Current methods and open challenges for structural modeling in cancer immunotherapy - ISMCO'20
 
-Welcome to the [ISMCO'20](http://ismco.net/) tutorial on [Current methods and open challenges for structural modeling in cancer immunotherapy](http://ismco.net/index.php/tutorials-2/)!!!
+Welcome to the second edition of the [ISMCO'20](http://ismco.net/) tutorial on [Current methods and open challenges for structural modeling in cancer immunotherapy](http://ismco.net/index.php/tutorials-2/)!!!
 
 ## Tentative schedule
 
 | Activity | Duration (m) | Time (PST) |
 |----------|:-------------:|:-------------:|
-| Opening  | 5 | 3:00 |
+| Opening  | 5 | **3:00** |
 | Cellular immunity for cancer immunotherapy | 15 | - |
 | Exploring IEDB resources (live demo)	| 40 | - |
-| **Break**	| **15** | - |
-| Downloading structures from PDB	| 5 | 4:15 |
+| **Break**	| **15** | **4:00** |
+| Downloading structures from PDB	| 5 | **4:15** |
 | Visualizing pHLA structures w Chimera (live)	| 30 | - |
-| **Break**	| **15** | - |
-| Intro pHLA modeling |	10 | 5:05 |
+| **Break**	| **15** | **4:50** |
+| Intro pHLA modeling |	10 | **5:05** |
 | DINC  (live demo) |	8 | - |
 | DockTope (webserver live demo) |	8 | - |
 | Intro to Jupyter notebooks (live demo) |	8 | - |
-| **Break**	| **15** | - |
-| Intro to HLA-Arena	| 10 | 5:40 |
+| **Break**	| **15** | **5:25** |
+| Intro to HLA-Arena	| 10 | **5:40** |
 | HLA-Arena workflow 0 (Ape-Gen)	| 10 | - |
 | HLA-Arena workflow 1 (DINC)	| 15 | - |
 | HLA-Arena workflow 3 (mhcflurry + APE-Gen) |	30 | - |
-| Conclusion | - | 19:00 |
+| Conclusion | - | **19:00** |
 
 
 ## Software requirements
